@@ -12,4 +12,6 @@
 //
 //= require rails-ujs
 //= require activestorage
+//= require popper
+//= require bootstrap.native/dist/bootstrap-native-v4
 //= require_tree .

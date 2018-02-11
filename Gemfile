@@ -25,6 +25,8 @@ gem 'babel-transpiler'
 
 gem 'hamlit-rails'
 
+gem 'bootstrap', '~> 4.0.0'
+
 gem 'config'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
