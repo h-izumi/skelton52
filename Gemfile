@@ -55,6 +55,7 @@ end
 
 group :test do
   gem 'database_rewinder'
+  gem 'simplecov', require: false
 end
 
 
