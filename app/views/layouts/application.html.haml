@@ -8,6 +8,8 @@
     = csrf_meta_tags
     = stylesheet_link_tag 'application', media: 'all'
   %body
+    = render 'shared/nav'
+
     = yield
 
     = javascript_include_tag 'application'
