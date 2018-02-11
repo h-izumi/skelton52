@@ -19,6 +19,7 @@ gem 'webpacker'
 # gem 'mini_racer', platforms: :ruby
 
 gem 'sprockets', '4.0.0.beta6'
+gem 'babel-transpiler'
 
 gem 'hamlit-rails'
 
