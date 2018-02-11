@@ -34,6 +34,13 @@ gem 'jbuilder', '~> 2.5'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
+# Improve console
+gem 'pry-rails'
+gem 'pry-coolline'
+gem 'pry-byebug'
+gem 'pry-doc'
+gem 'awesome_print'
+
 group :development, :test do
   gem 'rspec-rails', '~> 3.7'
   gem 'factory_bot_rails'
