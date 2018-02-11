@@ -17,11 +17,15 @@
 # Ignore uploaded files in development
 /storage/*
 
+/spec/examples.txt
+
 /node_modules
 /yarn-error.log
 
 /public/assets
 .byebug_history
+
+/coverage
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
