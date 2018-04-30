@@ -4,7 +4,7 @@ My Ruby on Rails 5.2 boilerplate.
 
 * Ruby 2.5
 * Ruby on Rails 5.2
-  * `rails new . -d mysql2 --webpack=react --skip-coffee --skip-turbolinks -T`
+  * `rails new . -d mysql --webpack=react --skip-coffee --skip-turbolinks -T`
 * Sprockets 4
   * with [Ruby Babel Transpiler](https://github.com/babel/ruby-babel-transpiler)
 * Webpacker

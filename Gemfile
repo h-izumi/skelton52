@@ -6,9 +6,9 @@ ruby '2.5.0'
 gem 'dotenv-rails', require: 'dotenv/rails-now'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.2.0.rc1'
+gem 'rails', '~> 5.2.0'
 # Use mysql as the database for Active Record
-gem 'mysql2', '~> 0.4.4'
+gem 'mysql2', '~> 0.5.1'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
@@ -20,7 +20,7 @@ gem 'webpacker'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
-gem 'sprockets', '4.0.0.beta6'
+gem 'sprockets', '4.0.0.beta7'
 gem 'babel-transpiler'
 
 gem 'hamlit-rails'
