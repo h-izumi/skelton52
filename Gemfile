@@ -26,7 +26,7 @@ gem 'babel-transpiler'
 gem 'hamlit-rails'
 
 gem 'bootstrap', '~> 4.0.0'
-gem 'bootstrap_form', github: 'bootstrap-ruby/bootstrap_form', branch: 'master'
+gem 'bootstrap_form', '>= 4.0.0.alpha1'
 
 gem 'config'
 

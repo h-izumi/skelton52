@@ -1,11 +1,3 @@
-GIT
-  remote: https://github.com/bootstrap-ruby/bootstrap_form.git
-  revision: 8a7188fbb2d55bbd6c64f9130e7882eea56bfee9
-  branch: master
-  specs:
-    bootstrap_form (4.0.0.dev)
-      rails (>= 5.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -74,6 +66,8 @@ GEM
       autoprefixer-rails (>= 6.0.3)
       popper_js (>= 1.12.9, < 2)
       sass (>= 3.5.2)
+    bootstrap_form (4.0.0.alpha1)
+      rails (>= 5.0)
     builder (3.2.3)
     byebug (10.0.0)
     coderay (1.1.2)
@@ -299,7 +293,7 @@ DEPENDENCIES
   binding_of_caller
   bootsnap (>= 1.1.0)
   bootstrap (~> 4.0.0)
-  bootstrap_form!
+  bootstrap_form (>= 4.0.0.alpha1)
   byebug
   config
   database_rewinder
