@@ -40,7 +40,10 @@ Dir.chdir("#{app_parent_dir}/#{app_name}")
 `rm README.md`
 `rm LICENSE.txt`
 `rm setup.rb`
+
 `git init`
 `git add .`
-`git commit -m "initial."`
 
+unless ENV['NO_COMMIT']
+  `git commit -m "initial."`
+end

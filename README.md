@@ -26,6 +26,12 @@ cd /path/to/app-parent
 curl -L https://raw.githubusercontent.com/h-izumi/skelton52/master/setup.rb | APP_NAME="app-name" ruby
 ```
 
+* Set `NO_COMMIT=true` to skip `git commit`.
+
+```shell
+curl -L https://raw.githubusercontent.com/h-izumi/skelton52/master/setup.rb | APP_NAME="app-name" NO_COMMIT=true ruby
+```
+
 or Manually:
 
 ```shell
