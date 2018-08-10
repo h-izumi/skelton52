@@ -14,6 +14,7 @@ My Ruby on Rails 5.2 boilerplate.
 * dotenv
 * Bootstrap 4 with **no jQuery**
   * with [bootstrap.native](https://thednp.github.io/bootstrap.native/)
+* Font-Awesome
 * RSpec
 * etc...
 

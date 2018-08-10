@@ -27,6 +27,7 @@ gem 'hamlit-rails'
 
 gem 'bootstrap', '~> 4.0.0'
 gem 'bootstrap_form', '>= 4.0.0.alpha1'
+gem 'font-awesome-rails'
 
 gem 'config'
 
