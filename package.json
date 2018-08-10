@@ -2,7 +2,7 @@
   "name": "skelton52",
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "^3.2.1",
+    "@rails/webpacker": "^3.5.5",
     "babel-preset-react": "^6.24.1",
     "bootstrap.native": "^2.0.21",
     "prop-types": "^15.6.0",
