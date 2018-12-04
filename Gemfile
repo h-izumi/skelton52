@@ -25,7 +25,7 @@ gem 'babel-transpiler'
 
 gem 'hamlit-rails'
 
-gem 'bootstrap', '~> 4.0.0'
+gem 'bootstrap', '>= 4.1.2'
 gem 'bootstrap_form', '>= 4.0.0.alpha1'
 gem 'font-awesome-rails'
 
