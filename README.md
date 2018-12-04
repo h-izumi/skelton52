@@ -2,7 +2,7 @@
 
 My Ruby on Rails 5.2 boilerplate.
 
-* Ruby 2.5.1
+* Ruby 2.5.3
 * Ruby on Rails 5.2
   * `rails new . -d mysql --webpack=react --skip-coffee --skip-turbolinks -T`
 * Sprockets 4
